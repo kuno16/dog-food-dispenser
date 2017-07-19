@@ -1,3 +1,3 @@
-This files collects requirements for the project.
+This files collects requirements for this project.
 
-* The should be an APP
+* There should be an APP
